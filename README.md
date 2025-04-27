@@ -126,7 +126,6 @@ By using these three types of tests, we ensure comprehensive test coverage at di
 
 ## Conclusion
 
-In this project, we applied **unit tests**, **component tests**, and **integration tests** to ensure that each layer of the application works correctly. By isolating the test database and using **mocking** strategies where appropriate, we ensured that no production data was impacted. 
+In this project, I applied **unit tests**, **component tests**, and **integration tests** to ensure that each layer of the application works correctly. By isolating the test database and using **mocking** strategies where appropriate, I ensured that no production data was impacted. 
 
-Feel free to run the tests as explained above to verify the correctness of the system!
 
